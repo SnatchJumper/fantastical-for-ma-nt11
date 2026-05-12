@@ -1,4 +1,4 @@
-#  
+#  Enhance Fantastical for macOS with Fantastical for macOS best Macro - multi-device sync and task automation, the #1 macro. Includes multi-device sync and task automation for a
 
 
 
